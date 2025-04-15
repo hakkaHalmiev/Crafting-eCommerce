@@ -17,6 +17,37 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+   justify-content: space-between;
 
 }
 
+.header-content h1{
+    flex-grow: 1;
+}
+
+nav ul{
+    list-style:none;
+    display:flex;
+    margin:0 15px;
+    padding: 0px;
+    
+    
+
+}
+
+ li{
+    margin:25px;
+ 
+}
+
+a{
+    color: brown;
+    text-decoration: dashed;
+    padding: 5px 10px;
+
+}
+
+a:hover{
+    color: black;
+    text-decoration:underline;
+}
