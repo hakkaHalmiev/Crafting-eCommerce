@@ -49,3 +49,22 @@ a:hover{
     color: black;
     text-decoration:underline;
 }
+
+.product-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.product{
+    background-color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+
+
+
+
+
