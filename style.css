@@ -55,18 +55,41 @@ a:hover{
     justify-content: center;
     padding: 20px;
     background-color: burlywood;
+   
     
 }
 
 .product{
     
     background-color: cornsilk;
-    margin: 40px;
+    margin:40px;
     padding: 20px;
     width: 50%;
     text-align: center;
 }
 
+.sec1-2{
+    width: 50%;
+    
+    
+    
+}
 
+.sec3-4{
+    width: 50%;
+    
+}
+#product1{
+    margin-left: 25%;
+    
+}
 
-
+#product2{
+    margin-left: 25%;
+}
+#product3{
+    margin-left: 25%;
+}
+#product4{
+    margin-left: 25%;
+}
