@@ -93,3 +93,12 @@ a:hover{
 #product4{
     margin-left: 25%;
 }
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+
+
+}
